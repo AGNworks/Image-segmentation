@@ -1,0 +1,8 @@
+Checking the images, if they contains just black and white pictures
+
+Total number of files in dir: 1 pcs 
+
+Wrong pictures:
+
+Correct images: 1 pcs 
+
