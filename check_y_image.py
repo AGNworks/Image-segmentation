@@ -5,7 +5,7 @@ import datetime
 
 x = datetime.datetime.now()
 with open ("about/{}_report.txt".format(x.strftime("%d_%m_%y__%H_%M")), "w") as report:
-   report.write("Checking the images, if they contains just black and white pictures\n\n")
+   report.write("Checking the images, if they contains just black and white pixels\n\n")
 
 correct_imgs = 0
 

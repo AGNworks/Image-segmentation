@@ -1,0 +1,8 @@
+Checking the images, if they contains just black and white pixels
+
+Total number of files in dir: 5 pcs 
+
+Wrong pictures:
+
+Correct images: 5 pcs 
+
