@@ -37,6 +37,13 @@ Image preprocessing is handled by `functions/image_processes.py` which includes:
 
 > All masks are used as labels in supervised training for U-Net.
 
+<p align="center">
+    <img src="https://github.com/AGNworks/Image-segmentation/blob/main/assets/original_images/0.jpg" alt="Original" width="30%" />
+    <img src="https://github.com/AGNworks/Image-segmentation/blob/main/assets/gimp_prepared_images/0.png" alt="GIMP Prepared" width="30%" />
+    <img src="https://github.com/AGNworks/Image-segmentation/blob/main/assets/prepared_images/y_0.png" alt="Final Mask" width="30%" />
+</p>
+<p align="center"> <b>Original</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>GIMP Prepared</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Final Mask</b> </p>
+
 ## 🧠 Model Training
 
 The training process is defined in `functions/road_finder_Unet.ipynb` and includes:
